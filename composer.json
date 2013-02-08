@@ -1,0 +1,14 @@
+{
+    "name": "universibo/smarty",
+    "description": "UniversiBO's Smarty custom version",
+    "authors": [
+        {
+            "name": "Davide Bellettini",
+            "email": "davide.bellettini@gmail.com"
+        }
+    ],
+    "autoload": [
+        "classmap": ["MySmarty.class.php", "SmartyBC.class.php", "Smarty.class.php"] 
+    ],
+    "replaces": "smarty/smarty"
+}

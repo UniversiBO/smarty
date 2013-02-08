@@ -32,7 +32,6 @@
 /**
  * @ignore
  */
-require(dirname(__FILE__) . '/Smarty.class.php');
 
 /**
  * Smarty Backward Compatability Wrapper Class
