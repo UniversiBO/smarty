@@ -7,8 +7,12 @@
             "email": "davide.bellettini@gmail.com"
         }
     ],
-    "autoload": [
-        "classmap": ["MySmarty.class.php", "SmartyBC.class.php", "Smarty.class.php"] 
-    ],
+    "autoload": {
+        "classmap": [
+            "MySmarty.class.php",
+            "SmartyBC.class.php",
+            "Smarty.class.php"
+        ]
+    },
     "replaces": "smarty/smarty"
 }
