@@ -5,6 +5,10 @@
         {
             "name": "Davide Bellettini",
             "email": "davide.bellettini@gmail.com"
+        },
+        {
+            "name": "Smarty committers",
+            "homepage": "http://code.google.com/p/smarty-php/people/list"
         }
     ],
     "autoload": {
