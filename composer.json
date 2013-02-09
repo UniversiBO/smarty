@@ -14,5 +14,7 @@
             "Smarty.class.php"
         ]
     },
-    "replaces": "smarty/smarty"
+    "replaces": {
+        "smarty/smarty": "v3.1.11"
+    }
 }
